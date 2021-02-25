@@ -22,4 +22,4 @@ client:on("messageCreate", function(message)
 end)
 
 
-client:run("Bot NjYxMjMwMTUzNjQ0Mzc2MDg0.XgoYkQ.4TAoCdIeKvX3Yibit8MNFaW8bOA")
+client:run("Bot INSET_YOUR_TOKEN_HERE")
