@@ -1,13 +1,5 @@
 # Discotopio
 A Discord bot written in lua with Discordia without a specific goal yet
 
-
-Features:
--well,there's none X)
-
-Plans:
--leveling
--administrative commands
--Some way to translate the strings
--overwork the commands system
--add some fun stuff
+Resources used:
+-https://gist.github.com/liukun/f9ce7d6d14fa45fe9b924a3eed5c3d99
